@@ -1,0 +1,26 @@
+package namensliste;
+
+
+public class Namensliste {
+
+    
+    public static void main(String[] args) {
+        String[] teilnehmerNamen = new String[8];
+        teilnehmerNamen[0] = "Max";
+        teilnehmerNamen[1] = "Flo";
+        teilnehmerNamen[2] = "Tim";
+        teilnehmerNamen[3] = "Paul";
+        teilnehmerNamen[4] = "Sebi";
+        teilnehmerNamen[5] = "Jan Philipp";        
+        teilnehmerNamen[6] = "Michi";
+        teilnehmerNamen[7] = "Tri Thanh";
+        
+        String[] schuelerNamen ={ "Max" , "Flo" , "Tim" , "Paul" , "Sebi" ,"Jan Philipp" ,
+                                  "Michi" , "Tri Thanh" , "Gregor" , "Anna" , "Raphael" , 
+                                  "Joris" , "Lucca" , "Fynn" , "Dome" , "Thomas" , "Hannah" ,
+                                  "Claudia" , "Lotte"  };
+        
+        System.out.println(schuelerNamen[10]);
+    }
+    
+}
