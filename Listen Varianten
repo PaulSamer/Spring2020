@@ -10,15 +10,15 @@ public class Namensliste {
         teilnehmerNamen[1] = "Flo";
         teilnehmerNamen[2] = "Tim";
         teilnehmerNamen[3] = "Paul";
-        teilnehmerNamen[4] = "Sebi";
+        teilnehmerNamen[4] = "Sebastian";
         teilnehmerNamen[5] = "Jan Philipp";        
-        teilnehmerNamen[6] = "Michi";
+        teilnehmerNamen[6] = "Michael";
         teilnehmerNamen[7] = "Tri Thanh";
         
-        String[] schuelerNamen ={ "Max" , "Flo" , "Tim" , "Paul" , "Sebi" ,"Jan Philipp" ,
-                                  "Michi" , "Tri Thanh" , "Gregor" , "Anna" , "Raphael" , 
-                                  "Joris" , "Lucca" , "Fynn" , "Dome" , "Thomas" , "Hannah" ,
-                                  "Claudia" , "Lotte"  };
+        String[] schuelerNamen ={ "Max" , "Flo" , "Tim" , "Paul" , "Sebastian" ,"Jan Philipp" ,
+                                  "Michael" , "Tri Thanh" , "Gregor" , "Anna" , "Raphael" , 
+                                  "Joris" , "Lucca" , "Fynn" , "Domenick" , "Thomas" , "Hannah" ,
+                                  "Claudia" , "Lotte" };
         
         System.out.println(schuelerNamen[10]);
     }
